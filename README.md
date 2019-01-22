@@ -11,6 +11,11 @@ Built on Python version 2.7.15
 2. Replace the all occurances in the txt file of the name of the company with the following text, "COMPANY_NAME". Then, replace all occurances in the txt file of the job title with the following text, "JOB_TITLE".
 
 3. Finally, you can run the script with the following command:
+	
 	python CLGen.py "INSERT COMPANY NAME" "INSERT JOB TITLE"
+   
+   Example:
+   
+   	python CLGen.py "Google" "Software Engineer"
 
 4. The cover letter text will be automatically copied onto your clipboard, but it will also be printed out onto the terminal.
