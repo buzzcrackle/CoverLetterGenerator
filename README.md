@@ -12,10 +12,10 @@ Built on Python version 2.7.15
 
 3. Finally, you can run the script with the following command:
 	
-	python CLGen.py "INSERT COMPANY NAME" "INSERT JOB TITLE"
+		python CLGen.py "INSERT COMPANY NAME" "INSERT JOB TITLE"
    
    For example:
    
-   	python CLGen.py "Google" "Software Engineer"
+   		python CLGen.py "Google" "Software Engineer"
 
 4. The cover letter text will be automatically copied onto your clipboard, but it will also be printed out onto the terminal.
