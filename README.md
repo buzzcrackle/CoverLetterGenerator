@@ -14,7 +14,7 @@ Built on Python version 2.7.15
 	
 	python CLGen.py "INSERT COMPANY NAME" "INSERT JOB TITLE"
    
-   Example:
+   For example:
    
    	python CLGen.py "Google" "Software Engineer"
 
