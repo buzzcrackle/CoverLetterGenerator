@@ -6,9 +6,9 @@ Built on Python version 2.7.15
 
 ## How to use:
 
-1. In the same folder/directory as the python file, place a txt file with your cover letter template, named "coverletter.txt".
+1. In the same folder/directory as the python file, place a txt file with your cover letter template named "coverletter.txt".
 
-2. Replace the all occurances in the txt file of the name of the company with the following text, "COMPANY_NAME". Then, replace all occurances in the txt file of the job title with the following text, "JOB_TITLE".
+2. Replace the all occurances in the txt file of the name of the company with "COMPANY_NAME". Then, replace all occurances in the txt file of the job title with "JOB_TITLE".
 
 3. Finally, you can run the script with the following command:
 	
