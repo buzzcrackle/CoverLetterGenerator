@@ -4,7 +4,7 @@ Python script to generate cover letters. Made for when you send cover letters to
 
 Built on Python version 2.7.15
 
-## How to use:
+# How to use:
 
 1. In the same folder/directory as the python file, place a txt file with your cover letter template, named "coverletter.txt".
 
