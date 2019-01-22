@@ -1,5 +1,8 @@
 ## Cover Letter Generator
-Python script to generate cover letters. Built on Python version 2.7.15
+
+Python script to generate cover letters. Made for when you send cover letters to many different companies and want to replace the names on each cover letter.
+
+Built on Python version 2.7.15
 
 ## How to use:
 
