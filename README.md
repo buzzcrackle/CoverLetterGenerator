@@ -1,11 +1,14 @@
-## Cover Letter Generator
-Python script to generate cover letters. Built on Python version 2.7.15
+# Cover Letter Generator
+
+Python script to generate cover letters. Made for when you send cover letters to many different companies and want to replace the names on each cover letter.
+
+Built on Python version 2.7.15
 
 ## How to use:
 
 1. In the same folder/directory as the python file, place a docx file with your cover letter template, named "CoverLetterTemplate.docx".
 
-2. Replace the all occurances of the name of the company with the following text, "COMPANY_NAME". Then, replace all occurances of the job title with the following text, "JOB_TITLE".
+2. Replace the all occurances in the txt file of the name of the company with "COMPANY_NAME". Then, replace all occurances in the txt file of the job title with "JOB_TITLE".
 
 3. Finally, you can run the script with the following command:
 	python CLGen.py "INSERT COMPANY NAME" "INSERT JOB TITLE" "INSERT FILE NALE"
