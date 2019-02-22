@@ -12,10 +12,10 @@ Built on Python version 2.7.15
 
 3. Finally, you can run the script with the following command:
       
-    python CLGen.py "INSERT COMPANY NAME" "INSERT JOB TITLE" "INSERT FILE NALE"
+    python CLGen.py "INSERT COMPANY NAME" "INSERT JOB TITLE" "INSERT FILE NAME"
 
-    Note: the file name DOES NOT include the .docx extension.
-
-    Ex: python CLGen.py "Google" "Software Developer" "John_Doe_Cover_Letter"
+   Note: Do not add a .docx extension in the file name. For example, 
+    
+    python CLGen.py "Google" "Software Developer" "John_Doe_Cover_Letter"
 
 4. There will be a .docx file created with the information given in the command. The cover letter text will be automatically copied onto your clipboard, but it will also be printed out onto the terminal.
