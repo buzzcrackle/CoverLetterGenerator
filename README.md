@@ -18,4 +18,4 @@ Built on Python version 2.7.15
 
     Ex: python CLGen.py "Google" "Software Developer" "John_Doe_Cover_Letter"
 
-4. The cover letter text will be automatically copied onto your clipboard, but it will also be printed out onto the terminal.
+4. There will be a .docx file created with the information given in the command. The cover letter text will be automatically copied onto your clipboard, but it will also be printed out onto the terminal.
