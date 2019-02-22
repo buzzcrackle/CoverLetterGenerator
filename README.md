@@ -11,7 +11,8 @@ Built on Python version 2.7.15
 2. Replace the all occurances in the txt file of the name of the company with "COMPANY_NAME". Then, replace all occurances in the txt file of the job title with "JOB_TITLE".
 
 3. Finally, you can run the script with the following command:
-	python CLGen.py "INSERT COMPANY NAME" "INSERT JOB TITLE" "INSERT FILE NALE"
+      
+    python CLGen.py "INSERT COMPANY NAME" "INSERT JOB TITLE" "INSERT FILE NALE"
     Note: the file name DOES NOT include the .docx extension.
 
     Ex: python CLGen.py "Google" "Software Developer" "John_Doe_Cover_Letter"

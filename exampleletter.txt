@@ -5,3 +5,5 @@ I would like a job as JOB_TITLE at COMPANY_NAME.
 Sincerely,
 
 John Doe
+
+// Update: now the script uses docx files instead of txt files. The same logic applies.
